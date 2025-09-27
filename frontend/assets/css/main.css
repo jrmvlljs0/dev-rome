@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@layer utilities {
+
+    .mainBg{
+        background:#99e39e;
+    }
+    .mainBorder {
+    border-color: #99e39e;
+  } 
+  .font-dm {
+    font-family: 'DM Sans', sans-serif;
+  } .mainText {
+    color: #99e39e;
+  }
+}
